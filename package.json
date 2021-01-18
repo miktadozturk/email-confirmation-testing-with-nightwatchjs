@@ -1,0 +1,17 @@
+{
+  "name": "signup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^87.0.4",
+    "nightwatch": "^1.5.1",
+    "selenium-server": "^3.141.59"
+  }
+}
